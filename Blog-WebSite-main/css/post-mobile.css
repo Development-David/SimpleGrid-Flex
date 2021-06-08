@@ -1,0 +1,29 @@
+@media(max-width:900px){
+    blockquote{
+        margin: 2px;
+        text-align: justify;
+    }
+    #photo{
+        width:50px;
+    }
+    .img-article{
+        width:50px;
+    }
+    #about-text{
+        margin:5px;
+        overflow-y: scroll;
+        text-align: justify;
+    }
+    .text{
+        padding:4px;
+    }
+    #social>.img-article{
+        width:20px;
+
+    }
+    #about{
+        width:70px;
+    }
+
+
+}
