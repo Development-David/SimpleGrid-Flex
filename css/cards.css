@@ -1,0 +1,19 @@
+.articles-card{
+	height: 47vh;
+	width:23%;
+	border:1px solid black;
+	box-shadow: 6px 5px 5px black;
+	margin:6px
+}
+.img-article{
+	margin-top: 4%;
+	width:100%;
+	height:20vh;
+}
+.text {
+	padding: 0 1vw 2vw;
+	text-decoration: none;
+	text-align: justify;
+	font-size: 	1vmax;
+	font-weight: normal;
+}

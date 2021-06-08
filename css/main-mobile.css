@@ -1,0 +1,21 @@
+@media (max-width:900px){
+    #container{
+        grid-template-rows: 1fr 10fr;
+
+    }   
+    #flex-articles{
+        flex-direction: column;
+    }
+    .articles-card{
+        height: 50vh;
+        width:90%;
+ 
+    }
+    #articles-box{
+		overflow-y: scroll;
+    }
+    .text {
+        font-size: 2.5vh;
+    }
+
+}
